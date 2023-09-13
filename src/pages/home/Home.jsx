@@ -23,7 +23,7 @@ const Home = () => {
 
           <Link to='/about' className='button'>
             More About Me{' '}
-            <span className='button_icon'>
+            <span className='button__icon'>
               <FaArrowRight/>
             </span>
           </Link>

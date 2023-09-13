@@ -103,6 +103,10 @@ margin-inline: auto;
   padding-block: 70px;
 }
 
+.section__title span{
+  color: var(--first-color);
+}
+
 .section__title {
   padding-block: 70px;
 }
@@ -147,7 +151,7 @@ margin-inline: auto;
   transform: translateX(0);
 }
 
-.button_icon {
+.button__icon {
   background-color: var(--first-color);
   position: absolute;
   inset-block: -2px;
@@ -158,7 +162,5 @@ margin-inline: auto;
   font-size: var(--large-font-size);
   text-align: center;
   line-height: 60px;
-
-
 }
 
