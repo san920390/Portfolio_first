@@ -3,6 +3,7 @@ import Stats from '../../components/Stats'
 import Info from '../../components/Info'
 import { FaDownload } from 'react-icons/fa'
 import CV from '../../assets/steve-Cv.pdf'
+import Skills from '../../components/Skills'
 import './about.css'
 
 const About = () => {
@@ -36,6 +37,17 @@ const About = () => {
         </div>
 
        
+      </section>
+
+      <div className="seprator"></div>
+
+      <section className='skills'>
+        <h3 className="section__subtitle subtitle__center">
+          My Skills
+        </h3>
+        <div className='skills__container grid'>
+          <Skills/>
+        </div>.
       </section>
     </main>
   )
