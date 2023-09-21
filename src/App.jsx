@@ -7,10 +7,12 @@ import About from './pages/about/About';
 import Portfolio from './pages/portfolio/Portfolio';
 import Contact from './pages/contact/Contact';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Themes from './components/Themes';
 
 function App() {
   return (
     <BrowserRouter>
+    <Themes/>
     <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
