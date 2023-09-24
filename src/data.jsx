@@ -61,13 +61,13 @@ import {
     {
       id: 1,
       title: 'First Name : ',
-      description: 'Steve',
+      description: 'Sandeep',
     },
   
     {
       id: 2,
       title: 'Last Name : ',
-      description: 'Milner',
+      description: 'Haldar',
     },
   
     {
@@ -79,68 +79,68 @@ import {
     {
       id: 4,
       title: 'Nationality : ',
-      description: 'Tunisian',
+      description: 'Indian',
     },
   
     {
       id: 5,
       title: 'Freelance : ',
-      description: 'Available',
+      description: 'not-Available',
     },
   
     {
       id: 6,
       title: 'Address : ',
-      description: 'Tunis',
+      description: 'villege post - usrar, satna, mp',
     },
   
     {
       id: 7,
-      title: 'Phone : ',
-      description: '+21621184010',
+      title: 'Mobile : ',
+      description: '7999593764',
     },
   
     {
       id: 8,
       title: 'Email : ',
-      description: 'you@mail.com',
+      description: 'sandeephaldar4888@gmail.com',
     },
   
     {
       id: 9,
       title: 'Skype : ',
-      description: 'steve.milner',
+      description: 'sandeep_haldar',
     },
   
     {
       id: 10,
       title: 'Langages : ',
-      description: 'French, English',
+      description: 'English, Hindi, Bangali',
     },
   ];
   
   export const stats = [
     {
       id: 1,
-      no: '12+',
+      no: '2+',
       title: 'Years of <br /> Experience',
     },
   
     {
       id: 2,
-      no: '97+',
+      no: '5+',
       title: 'Completed <br /> Projects',
     },
   
     {
       id: 3,
-      no: '81+',
+      no: '2+',
       title: 'Happy <br /> Customers',
     },
   
     {
       id: 4,
-      no: '53+',
+      no: '6+',
       title: ' Awards <br /> Won',
     },
   ];
@@ -150,8 +150,8 @@ import {
       id: 1,
       category: 'experience',
       icon: <FaBriefcase />,
-      year: '2018 - PRESENT',
-      title: 'Web Developer <span> Envato </span>',
+      year: '2023 - PRESENT',
+      title: 'React js developer <span> Beact Infotech, surat </span>',
       desc: 'Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,',
     },
   
@@ -159,8 +159,8 @@ import {
       id: 2,
       category: 'experience',
       icon: <FaBriefcase />,
-      year: '2013 - 2018',
-      title: 'UI/UX Designer <span> Themeforest </span>',
+      year: '2022 - 2023',
+      title: 'Web designer <span> Inside Infotech Solution, surat </span>',
       desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
     },
   
@@ -168,8 +168,8 @@ import {
       id: 3,
       category: 'experience',
       icon: <FaBriefcase />,
-      year: '2005 - 2013',
-      title: 'Consultant <span> Videohive </span>',
+      year: '2021 - 2022',
+      title: 'relationship manager <span> stark tech, bhopal </span>',
       desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt',
     },
   
@@ -177,8 +177,8 @@ import {
       id: 4,
       category: 'education',
       icon: <FaGraduationCap />,
-      year: '2015',
-      title: 'Engineering Degree <span> Oxford University </span>',
+      year: 'running',
+      title: 'Master Degree Degree <span> TIT college Bhopal </span>',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore',
     },
   
@@ -186,8 +186,8 @@ import {
       id: 5,
       category: 'education',
       icon: <FaGraduationCap />,
-      year: '2012',
-      title: 'Master Degree <span> KIEV University </span>',
+      year: '2018',
+      title: 'Graduation Degree <span> TIT College Bhopal </span>',
       desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
     },
   
@@ -195,8 +195,8 @@ import {
       id: 6,
       category: 'education',
       icon: <FaGraduationCap />,
-      year: '2009',
-      title: 'Bachelor Degree <span> Tunis High School </span>',
+      year: '2013',
+      title: '12th <span> Venkat Higher Secondry School </span>',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore',
     },
   ];
@@ -205,13 +205,13 @@ import {
     {
       id: 1,
       title: 'Html',
-      percentage: '25',
+      percentage: '60',
     },
   
     {
       id: 2,
       title: 'Javascript',
-      percentage: '89',
+      percentage: '65',
     },
   
     {
@@ -222,32 +222,32 @@ import {
   
     {
       id: 4,
-      title: 'Php',
-      percentage: '66',
+      title: 'Tailwind CSS',
+      percentage: '75',
     },
   
     {
       id: 5,
-      title: 'Wordpress',
-      percentage: '95',
+      title: 'Bootstrap',
+      percentage: '70',
     },
   
     {
       id: 6,
-      title: 'Jquery',
+      title: 'Type Script',
       percentage: '50',
     },
   
     {
       id: 7,
-      title: 'Angular',
+      title: 'DSA(JAVA)',
       percentage: '65',
     },
   
     {
       id: 8,
       title: 'React',
-      percentage: '45',
+      percentage: '70',
     },
   ];
   
